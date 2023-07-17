@@ -6,7 +6,7 @@
 
 👋 Welcome to my GitHub profile! I'm Fatemeh, a passionate software developer specializing in machine learning, deep learning, and data analysis using Python.
 
-🤖 I have extensive experience in building and deploying machine learning models to solve complex problems. My expertise includes developing algorithms, implementing neural networks, and utilizing cutting-edge techniques to extract insights from data.
+👾 I have extensive experience in building and deploying machine-learning models to solve complex problems. My expertise includes developing algorithms, implementing neural networks, and utilizing cutting-edge techniques to extract insights from data.
 
 🔬 I enjoy exploring and analyzing datasets to uncover patterns and trends that drive meaningful business decisions. From data preprocessing and feature engineering to statistical analysis and visualization, I strive to derive actionable insights from information.
 
