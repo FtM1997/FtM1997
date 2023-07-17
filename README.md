@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Fatemeh Makhloughi</h1>
+<h1 align="center">Hi 👋, I'm Fatemeh </h1>
 <p align="left">
   Machine Learning | Python Developer | Data Analysis Enthusiast
 
