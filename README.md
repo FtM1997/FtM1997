@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Fatemeh </h1>
 <p align="left">
-  Machine Learning | Python Developer | Data Analysis Enthusiast
+  Machine Learning | Python Developer | Data Scientist Enthusiast
 
 👋 Welcome to my GitHub profile! I'm Fatemeh, a passionate software developer specializing in machine learning, deep learning, and data analysis using Python.
 
